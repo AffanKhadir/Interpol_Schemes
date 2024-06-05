@@ -1,3 +1,7 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Original author: Sebastian Hutschenreuter (https://github.com/shutsch)
+
+
 import os
 import sys
 import importlib

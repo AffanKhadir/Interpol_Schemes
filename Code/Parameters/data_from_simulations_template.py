@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Original author: Sebastian Hutschenreuter (https://github.com/shutsch)
+
 data_params = {
     'seed': 2646,  # Can be None
     'data_name': 'test',  # The arrays will be saved in ./Data/<data_name>. Te inference script needs this name

@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Original author: Sebastian Hutschenreuter (https://github.com/shutsch)
+
 run_params = {
     'seed': 112,  # random seed fixed for reproducability, can be set to None
     'run_name': 'test',  # The results will be saved in ./Runs/plots/<run_name>/  and  ./Runs/results/<run_name>/, respectively.

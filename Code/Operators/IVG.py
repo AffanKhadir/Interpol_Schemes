@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Original author: Sebastian Hutschenreuter (https://github.com/shutsch)
+# This operator is adapted from 
+# https://gitlab.mpcdf.mpg.de/ift/nifty/-/blob/NIFTy_8/src/library/special_distributions.py
+
 import numpy as np
 import nifty8 as ift
 from scipy.stats import invgamma, norm
