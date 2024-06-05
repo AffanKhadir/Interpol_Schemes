@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Original author: Sebastian Hutschenreuter (https://github.com/shutsch)
+
 import nifty8 as ift
 import matplotlib.pyplot as pl
 from matplotlib import cm
